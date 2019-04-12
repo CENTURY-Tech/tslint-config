@@ -1,0 +1,27 @@
+{
+  "name": "@ctek/tslint-config",
+  "version": "0.0.0",
+  "description": "",
+  "keywords": [],
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "CENTURY Tech (https://www.century.tech)",
+  "homepage": "https://github.com/CENTURY-Tech/tslint-config#readme",
+  "license": "MIT",
+  "contributors": [
+    {
+      "name": "Iain Reid",
+      "email": "iainreid382@gmail.com",
+      "url": "https://chaff.land"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CENTURY-Tech/tslint-config.git"
+  },
+  "bugs": {
+    "url": "https://github.com/CENTURY-Tech/tslint-config/issues"
+  }
+}
