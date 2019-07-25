@@ -1,8 +1,12 @@
 {
-  "name": "@ctek/tslint-config",
+  "name": "@century-tech/tslint-config",
   "version": "0.0.0",
-  "description": "",
-  "keywords": [],
+  "description": "Shareable TSLint TypeScript styleguide from CENTURY Tech",
+  "keywords": [
+    "tslint",
+    "tslint-config",
+    "tslint-rules"
+  ],
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -23,5 +27,11 @@
   },
   "bugs": {
     "url": "https://github.com/CENTURY-Tech/tslint-config/issues"
+  },
+  "peerDependencies": {
+    "tslint": ">=5.15.0"
+  },
+  "publishConfig": {
+    "access": "public"
   }
 }
