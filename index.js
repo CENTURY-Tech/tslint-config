@@ -6,6 +6,10 @@ module.exports = {
     "no-namespace": [
       false
     ],
+    "max-line-length": [
+      true,
+      140
+    ],
     "member-access": [
       true
     ],
