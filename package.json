@@ -1,6 +1,6 @@
 {
   "name": "@century-tech/tslint-config",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Shareable TSLint TypeScript styleguide from CENTURY Tech",
   "keywords": [
     "tslint",
