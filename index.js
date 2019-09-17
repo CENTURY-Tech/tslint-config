@@ -17,6 +17,7 @@ module.exports = {
     "trailing-comma": [
       false
     ],
+    "typedef": [true, "call-signature"],
     "no-angle-bracket-type-assertion": false,
     "object-literal-sort-keys": false,
     "whitespace": [
